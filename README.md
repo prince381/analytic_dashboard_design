@@ -4,6 +4,7 @@ This web application is the outcome of my data science project which focuses on 
 * numpy - for array operations
 * plotly - for making interactive live charts
 * Dash - a python framework built on top of flask and uses React.js under the hood to render the web components
+A demo of the application is shown in the gif below, and the application can be accessed [here]()
 
 ![](https://github.com/prince381/marketing_dashboard_design/blob/master/mk_dash.gif)
 ### by: Prince Owusu
