@@ -1,5 +1,9 @@
 # UI/UX Analytic Dashboard design
 
+![](https://github.com/prince381/marketing_dashboard_design/blob/master/mk_dash.gif)
+### by: Prince Owusu
+[Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [@iam_kwekhu](https://twitter.com/iam_kwekhu)
+
 In today's business environment, the tendency is towards more and more data – so much so that its called Big Data. Managing and extracting
 real value from all the data that is created and stored from all the apps and systems we use is quickly becoming a "BIG" challenge facing
 all businesses whether your small or large.
