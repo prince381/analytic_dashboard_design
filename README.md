@@ -1,5 +1,9 @@
 # UI/UX Analytic Dashboard design
-This web application is the outcome of my data science project which focuses on analytic dashboard design. In this repository,you can find the data used to perform the analysis and a python written application that makes up the simple single-paged interactive dashboard built with plotly dash framework.
+This web application is the outcome of my data science project which focuses on analytic dashboard design. In this repository,you can find the data used to perform the analysis and a python script (app.py) that makes up the simple single-paged interactive dashboard.As stated before, the whole application was written in pure python and the libraries and frameworks used are as follows:
+* pandas - data manipulation library in python
+* numpy - for array operations
+* plotly - for making interactive live charts
+* Dash - a python framework built on top of flask and uses React.js under the hood to render the web components
 
 ![](https://github.com/prince381/marketing_dashboard_design/blob/master/mk_dash.gif)
 ### by: Prince Owusu
