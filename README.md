@@ -10,7 +10,7 @@ A demo of the application is shown in the gif below, and the application can be 
 
 ![](https://github.com/prince381/marketing_dashboard_design/blob/master/mk_dash.gif)
 ### by: Prince Owusu
-[Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [@iam_kwekhu](https://twitter.com/iam_kwekhu)
+[Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [Twitter](https://twitter.com/iam_kwekhu)
 
 ## Why do we need a dashboard
 
