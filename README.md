@@ -1,8 +1,10 @@
 # UI/UX Analytic Dashboard design
-This web application is the outcome of my data science project which focuses on analytic dashboard design. In this repository,you can find the 
+This web application is the outcome of my data science project which focuses on analytic dashboard design. In this repository,you can find the data used to perform the analysis and a python written application that makes up the simple single-paged interactive dashboard built with plotly dash framework.
 ![](https://github.com/prince381/marketing_dashboard_design/blob/master/mk_dash.gif)
 ### by: Prince Owusu
 [Email](powusu381@gmail.com) || [linkedIn](https://www.linkedin.com/in/prince-owusu-356914198?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2NYoXqMHQKOMp0yWSME5mQ%3D%3D) || [@iam_kwekhu](https://twitter.com/iam_kwekhu)
+
+## Why do we need a dashboard
 
 In today's business environment, the tendency is towards more and more data – so much so that its called Big Data. Managing and extracting
 real value from all the data that is created and stored from all the apps and systems we use is quickly becoming a "BIG" challenge facing
